@@ -7,7 +7,7 @@
 # Jardel Vieira
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-Atualmente faço graduação em Engenharia Mecânica na Universidade do Estado do Rio de Janeiro (UERJ) e trabalhando com Inteligência Artificial na Volkswagen Caminhões e Ônibus. Possuo formação técnica em Mecânica Industrial no SENAI de Macaé.
+Atualmente faço graduação em Engenharia Mecânica na Universidade do Estado do Rio de Janeiro (UERJ) e trabalhando com Inteligência Artificial na Volkswagen Caminhões e Ônibus. Possuo formação técnica em Mecânica Industrial no SENAI de Macaé - RJ.
 
 Trabalhei como jovem aprendiz na Queiroz Galvão na área de Engenharia Naval e Projetos com auxilio do pacote Office e AutoCad. Estagiei na Carese Pintura Automotiva na área de qualidade e iniciei meus primeiros trabalhos lidando com dados e gerando indicadores no processo de pintura de cabines de caminhão Volkswagen com o software Power BI. Participei de projetos que envolveram sistemas pneumáticos no laboratório da minha universidade e atualmente ainda permaneço no grupo do Baja, na área da elétreica/eletrônica. 
 
