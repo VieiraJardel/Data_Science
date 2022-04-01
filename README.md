@@ -13,7 +13,7 @@ Trabalhei como jovem aprendiz na Queiroz Galvão na área de Engenharia Naval e 
 
 Possuo habilidade em falar Inglês, entre 2019/2020 realizei um intercambio de idiomas para Londres, Inglaterra e ultimamente tenho me dedicado na área de programação, Inteligência Artificial e Data Science.
 
-**Background in:** Python, Artificial Intelligence (Machine Learning and Deep Learning), Data Science.
+**Background in:** Eletric and eletronic, Python, Artificial Intelligence (Machine Learning and Deep Learning), Data Science.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jardelvieira00)
