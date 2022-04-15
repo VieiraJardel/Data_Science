@@ -22,7 +22,7 @@ Possuo habilidade em falar Inglês, entre 2019/2020 realizei um intercambio de i
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Análise exploratoria de dados Airbnb Rio de Janeiro:** encurtador.com.br/pDO69
+* **Análise exploratoria de dados Airbnb Rio de Janeiro:** https://url.gratis/j5ueyM
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
