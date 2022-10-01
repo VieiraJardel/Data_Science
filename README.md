@@ -23,7 +23,7 @@ Possuo habilidade em falar Inglês, entre 2019/2020 realizei um intercambio de i
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Análise exploratoria de dados Airbnb Rio de Janeiro:** https://url.gratis/j5ueyM
-* **Setembro Amarelo: análise do suicídio no Brasil com Data Science:** 
+* **Setembro Amarelo e Data Science: Análise exploratória de suicídios no Brasil e no Mundo** https://bityli.com/qCdpfXaZ
 
 ---
 
