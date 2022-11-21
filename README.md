@@ -20,10 +20,11 @@ Possuo habilidade em falar Inglês, entre 2019/2020 realizei um intercambio de i
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os artigos publicados:
 
 * **Análise exploratoria de dados Airbnb Rio de Janeiro:** https://url.gratis/j5ueyM
 * **Setembro Amarelo e Data Science: Análise exploratória de suicídios no Brasil e no Mundo** https://bityli.com/qCdpfXaZ
+* **Outubro Rosa e Machine Learning: Modelo para a Detecção de Câncer de Mama:** https://bityli.com/ZPhCSvVdt
 
 ---
 
