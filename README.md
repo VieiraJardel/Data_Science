@@ -23,8 +23,9 @@ Possuo habilidade em falar Inglês, entre 2019/2020 realizei um intercambio de i
 Veja os artigos publicados:
 
 * **Análise exploratoria de dados Airbnb Rio de Janeiro:** https://url.gratis/j5ueyM
-* **Setembro Amarelo e Data Science: Análise exploratória de suicídios no Brasil e no Mundo** https://bityli.com/qCdpfXaZ
-* **Outubro Rosa e Machine Learning: Modelo para a Detecção de Câncer de Mama:** https://bityli.com/ZPhCSvVdt
+* **Setembro Amarelo e Data Science: Análise exploratória de suicídios no Brasil e no Mundo** [https://bityli.com/qCdpfXaZ](https://www.linkedin.com/pulse/setembro-amarelo-e-data-science-an%C3%A1lise-explorat%C3%B3ria-de-jardel-vieira/)
+* **Outubro Rosa e Machine Learning: Modelo para a Detecção de Câncer de Mama:** [https://bityli.com/ZPhCSvVdt](https://www.linkedin.com/pulse/outubro-rosa-e-machine-learning-modelo-para-detec%C3%A7%C3%A3o-de-jardel-vieira/)
+* **Panorama COVID-19:** 
 
 ---
 
